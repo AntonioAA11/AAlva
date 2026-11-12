@@ -1,4 +1,3 @@
-package icc;
 
 import java.util.Scanner;
 

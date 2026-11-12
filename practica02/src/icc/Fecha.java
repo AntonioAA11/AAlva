@@ -1,4 +1,3 @@
-package icc;
 
 /**
  * Clase para crear y manejar fechas formadas por dia, mes y anio.
